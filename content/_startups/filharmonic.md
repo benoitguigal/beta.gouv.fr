@@ -2,14 +2,13 @@
 title: Fil'harmonic
 mission: Faciliter le travail administratif autour des contrôles ICPE
 owner: Ministère de la Transition Ecologique et Solidaire
-status: construction
+status: death
 start: 2018-01-08
 end:
-link: https://filharmonic.beta.gouv.fr
 repository: https://github.com/MTES-MCT/filharmonic
 incubator: mtes
 stats: false
-contact: contact@filharmonic.beta.gouv.fr
+contact: romain.campillo@developpement-durable.gouv.fr
 techno:
   - Vue
   - Go
